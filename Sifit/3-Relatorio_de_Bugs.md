@@ -7,7 +7,7 @@
 **Data:** 01.10.2026
 
 ---
-
+Bug 1: na página inicial, a aba "Ações Recomendadas para Hoje" fica mal formatada em telas com resoluções mais baixas, como 1366x768
 ### 🐞 **Bug 01: Ícone de visualizar senha desaparece ao clicar fora do campo**
 
 | **ID**     | **Descrição**                                                                                                                                             |

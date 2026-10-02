@@ -1,4 +1,4 @@
-## 🧪 **Plano de Testes - OrangeHRM (Demo)**
+## 🧪 **Plano de Testes - Sifit**
 
 ### 📌 1. **Identificação**
 
